@@ -122,18 +122,10 @@ Adds a new product to the in-memory list.
 All dependencies are listed in `requirements.txt`:
 
 ```plaintext
-Flask==2.3.2
+Flask==3.1.0
 Flask-RESTful==0.3.10
-requests==2.31.0
+requests==2.32.3
 ```
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request with your changes.
 
 ---
 
